@@ -1,0 +1,77 @@
+{
+    "cidades" :[
+      {
+        "imagem":"https://www.visitbrasil.com/wp-content/uploads/2021/08/Sao-Paulo-SP-Visit-Brasil-7-1-1024x683.jpg",
+        "nome": "São Paulo",
+        "populacao": 12325232,
+        "estado": "São Paulo",
+        "fundacao": "25/01/1554",
+        "pontos_turisticos": ["Parque Ibirapuera", "Avenida Paulista", "Mercado Municipal"]
+      },
+      {
+        "imagem":"https://media.staticontent.com/media/pictures/e63f71e3-03fb-4c1b-a1e6-c8b1586a7e73",
+        "nome": "Rio de Janeiro",
+        "populacao": 6747815,
+        "estado": "Rio de Janeiro",
+        "fundacao": "01/03/1565",
+        "pontos_turisticos": ["Cristo Redentor", "Pão de Açúcar", "Praia de Copacabana"]
+      },
+      {
+        "imagem":"https://www.viajenaviagem.com/wp-content/uploads/2020/02/belo-horizonte-pampulha.jpg",
+        "nome": "Belo Horizonte",
+        "populacao": 2521564,
+        "estado": "Minas Gerais",
+        "fundacao": "12/12/1897",
+        "pontos_turisticos": ["Praça da Liberdade", "Mercado Central", "Parque das Mangabeiras"]
+      },
+      {
+        "imagem":"https://a.cdn-hotels.com/gdcs/production67/d1025/9c42e257-fce5-4600-97d1-c3f3c6afd86b.jpg",
+        "nome": "Salvador",
+        "populacao": 2886698,
+        "estado": "Bahia",
+        "fundacao": "29/03/1549",
+        "pontos_turisticos": ["Pelourinho", "Elevador Lacerda", "Farol da Barra"]
+      },
+      {
+        "imagem":"https://www.vidadeturista.com/wp-content/uploads/2009/03/recife-pe.jpg",
+        "nome": "Recife",
+        "populacao": 1645727,
+        "estado": "Pernambuco",
+        "fundacao": "12/03/1537",
+        "pontos_turisticos": ["Recife Antigo", "Cais do Sertão", "Olinda"]
+      },
+      {
+        "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fortaleza%2C_Brazil_%286%29.jpg/1200px-Fortaleza%2C_Brazil_%286%29.jpg",
+        "nome": "Fortaleza",
+        "populacao": 2643247,
+        "estado": "Ceará",
+        "fundacao": "13/04/1726",
+        "pontos_turisticos": ["Praia do Futuro", "Mercado Central", "Catedral Metropolitana"]
+      },
+      {
+        "imagem":"https://media.staticontent.com/media/pictures/04641818-297a-4f28-b635-b15e2fb31087",
+        "nome": "Curitiba",
+        "populacao": 1948626,
+        "estado": "Paraná",
+        "fundacao": "29/03/1693",
+        "pontos_turisticos": ["Jardim Botânico", "Parque Barigui", "Ópera de Arame"]
+      },
+      {
+        "imagem":"https://pactoalegre.poa.br/sites/default/files/2019-03/IMG_03977.jpg",
+        "nome": "Porto Alegre",
+        "populacao": 1488252,
+        "estado": "Rio Grande do Sul",
+        "fundacao": "26/03/1772",
+        "pontos_turisticos": ["Mercado Público", "Parque Farroupilha", "Usina do Gasômetro"]
+      },
+      {
+        "imagem":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a8/32/90/as-vistas-sao-muito-legais.jpg?w=400&h=300&s=1",
+        "nome": "Belém",
+        "populacao": 1507766,
+        "estado": "Pará",
+        "fundacao": "12/01/1616",
+        "pontos_turisticos": ["Mercado Ver-o-Peso", "Basílica de Nazaré", "Estação das Docas"]
+      }
+
+    ]
+}
